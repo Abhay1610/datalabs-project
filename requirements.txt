@@ -1,0 +1,8 @@
+faiss_cpu
+streamlit~=1.29.0
+pdfminer
+
+fitz~=0.0.1.dev2
+torch~=2.1.1
+openai
+summarizer
