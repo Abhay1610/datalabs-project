@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer, util
 import time
 
 # Set your OpenAI API key
-openai.api_key="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"
+openai.api_key=""
 
 # Set up SentenceTransformer model
 model=SentenceTransformer('paraphrase-MiniLM-L6-v2')
